@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Laravelovely"
+date:   2015-12-04 20:51:24 -0600
+permalink: /:year/:month/:day/laravel/
+---
+I played with [Laravel](HTTP://Laravel.com/) this week. I stayed in shallow waters (touching only routes, controllers, [Eloquent ORM](http://laravel.com/docs/5.0/eloquent) models, and Blade templates), but I saw enough to say that it's a very elegant framework.
+
+I like how the Eloquent ORM fills in the columns for existing tables you specify models for. I'm sure that probably comes with trade-offs, but it's great for what I was doing with it.
+
+The way you specify relationships between models has a certain clarity. It's not at all difficult to wrap my brain around method names like hasMany, belongsToOne, hasManyThrough, etc. I was able to do some pretty useful joins with a ridiculously tiny amount of effort.
+
+I'll definitely hope to investigate Laravel some more in the future.

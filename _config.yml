@@ -10,7 +10,7 @@ title: Walter Codes
 description: > # this means to ignore newlines until "baseurl:"
   I write code. I also write about code. Sometimes I even talk about it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.waltercodes.com" # the base hostname & protocol for your site
+url: "https://www.waltercodes.com" # the base hostname & protocol for your site
 twitter_username: waltercodes
 github_username:  waltercodes
 

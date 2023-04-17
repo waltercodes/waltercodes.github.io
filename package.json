@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/waltercodes/waltercodes.github.io#readme",
   "devDependencies": {
-    "netlify-cli": "^2.6.0"
+    "netlify-cli": "^13.2.2"
   }
 }
